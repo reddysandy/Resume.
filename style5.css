@@ -1,6 +1,7 @@
 body{
     background-image: url(contact-us.avif);
     background-size: cover;
+     background-repeat: no-repeat;
 }
 
 body b{
