@@ -1,0 +1,40 @@
+
+ nav{
+    text-align: right;
+ }
+
+nav ul{
+    padding: 2px;
+}
+
+nav ul li{
+    display: inline;
+    padding: 5px;
+}
+
+nav ul li a{
+    border: 2px solid #bee3df;
+    padding: 5px 7px;
+    border-radius: 5px;
+    color: rgb(228, 227, 234);
+}
+
+body {
+   background-image: url(photo-1531297484001-80022131f5a1.jpeg);
+   font-family: Papyrus;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+body h2{
+    font-family: Sitka Subheading;
+    color: beige;
+    text-align: left;
+}
+
+#div1{
+    font-size: 20px;
+    font-family: Sitka Subheading;
+    color: salmon;
+}
+

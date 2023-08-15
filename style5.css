@@ -1,0 +1,16 @@
+body{
+    background-image: url(contact-us.avif);
+    background-size: cover;
+}
+
+body b{
+    font-size: 20px;
+    font-family: Cursive;
+    color: brown;
+}
+
+body form{
+    font-size: 20px;
+    font-family: Sitka Subheading;
+    color: rgb(10, 36, 82);
+}
